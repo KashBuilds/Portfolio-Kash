@@ -9,29 +9,3 @@ Built with **React**, **Vite**, and **Tailwind CSS**, and brought to life with a
 [kash.builds](https://kashbuilds.com/)
 
 ---
-
-### Running Locally
-
-To run this project on your own machine, follow these steps:
-
-1.  **Clone the repository:**
-    ```sh
-    git clone https://github.com/your-username/your-repo-name.git
-    ```
-
-2.  **Navigate to the project directory:**
-    ```sh
-    cd project
-    ```
-
-3.  **Install dependencies:**
-    ```sh
-    npm install
-    ```
-
-4.  **Run the development server:**
-    ```sh
-    npm run dev
-    ```
-
-The site will be available at `http://localhost:5173`. 
