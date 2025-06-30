@@ -6,7 +6,7 @@ Built with **React**, **Vite**, and **Tailwind CSS**, and brought to life with a
 
 ### Live Site
 
-[kash.dev](https://kashbuilds.com/)
+[kash.builds](https://kashbuilds.com/)
 
 ---
 
